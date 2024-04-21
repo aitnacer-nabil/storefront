@@ -14,7 +14,7 @@ media
 
 # If using virtualenv #
 venv/
-ENV/
+
 
 # If using Jupyter notebooks #
 .ipynb_checkpoints/
